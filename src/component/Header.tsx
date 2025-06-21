@@ -78,7 +78,7 @@ const Header = () => {
               className="text-xl sm:text-2xl font-bold mb-1"
               variants={childVariants}
             >
-              Omkar Gunjote
+              Siddhesh Bhelke
             </motion.h1>
             <motion.p 
               className="text-sm sm:text-base text-gray-400 mb-2 sm:mb-3"
