@@ -29,7 +29,7 @@ const Projects: React.FC = () => {
       title: "PortFolio",
       description: "Created a portfolio using Claude, OpenAI, and Vercel v0, which enhanced my knowledge of AI tools and deployment processes.",
       image: "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      githubLink: "https://github.com/leoomkar10/PortFolio" // Replace with actual GitHub link
+      githubLink: "https://github.com/Siddhesh5004/Portfolio_Website" // Replace with actual GitHub link
     }
   ];
 
