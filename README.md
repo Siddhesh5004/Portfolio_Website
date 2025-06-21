@@ -11,11 +11,11 @@ Welcome to my portfolio! This is the place where I showcase my skills, projects,
 
 ## Tech Stack
 
-Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure
-Backend Services: AWS Lambda, Azure Functions, API Gateway
-Databases: DynamoDB, Azure SQL, Data Lake Storage
-DevOps: Git, GitHub, AWS CLI, Docker basics
-Deployment: AWS S3/CloudFront, Azure Static Web Apps, or Netlify
+- Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure
+- Backend Services: AWS Lambda, Azure Functions, API Gateway
+- Databases: DynamoDB, Azure SQL, Data Lake Storage
+- DevOps: Git, GitHub, AWS CLI, Docker basics
+- Deployment: AWS S3/CloudFront, Azure Static Web Apps, or Netlify
 
 ## Installation
 
