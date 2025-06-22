@@ -1,28 +1,28 @@
 import React from 'react';
 import { Github } from 'lucide-react'; 
 import './animation.css';
-import QuickNoteImage from "./Images/Quick_Note.png";
-import TaskImage from "./Images/task.png";
-import BlogApp from "./Images/Blog.jpg";
+import SES from "./Images/SES.png";
+import Azure from "./Images/DataPip.png";
+import Form from "./Images/Form.png";
 
 const Projects: React.FC = () => {
   const projects = [
     {
       title: "AWS SES Email Marketing System",
       description: "Automated email marketing platform built with AWS Lambda, S3, and SES featuring scheduled campaigns and domain-verified delivery.",
-      image: QuickNoteImage,
+      image: SES,
       githubLink: "https://github.com/Siddhesh5004/Cloud-Tech/tree/main/AWS-Email-Marketing" // Replace with actual GitHub link
     },
     {
       title: "Azure Data Engineering Project",
       description: "End-to-end Olympic data analytics pipeline using Azure Data Factory, Databricks, and Synapse Analytics for insights extraction.",
-      image: TaskImage,
+      image: Azure,
       githubLink: "https://github.com/Siddhesh5004/Cloud-Tech/tree/main/Azure-End-To-End-Data-Engineering-Project" // Replace with actual GitHub link
     },
     {
       title: "AWS Serverless Form Submission System",
       description: "Serverless web application with HTML5 frontend, API Gateway, and Lambda functions storing form data in DynamoDB.",
-      image: BlogApp,
+      image: Form,
       githubLink: "https://github.com/Siddhesh5004/Cloud-Tech/tree/main/Serverless-Web-Application" // Replace with actual GitHub link
     },
     {
