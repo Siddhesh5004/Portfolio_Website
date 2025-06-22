@@ -6,7 +6,7 @@ const Skills = () => {
     {
       icon: "💻",
       title: "Programming & Scripting",
-      skills: ["Java", "SQL", "Shell Scripting", "Pyton", "", ""],
+      skills: ["Java", "SQL", "Shell Scripting(Bash)", "Python", "", ""],
     },
     {
       icon: "☁️",
