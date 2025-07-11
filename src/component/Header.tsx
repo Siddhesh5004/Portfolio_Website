@@ -84,7 +84,7 @@ const Header = () => {
               className="text-sm sm:text-base text-gray-400 mb-2 sm:mb-3"
               variants={childVariants}
             >
-             Cloud Developer | AWS & Azure Projects
+             Cloud Developer | AWS & Azure 
             </motion.p>
             <motion.div 
               className="flex gap-4 sm:gap-4 mb-4 sm:mb-0"
