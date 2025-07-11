@@ -16,7 +16,7 @@ const Skills = () => {
     {
       icon: "🛠️",
       title: "DevOps & Tools",
-      skills: ["Git","GitHub", "Docker(Basics)"],
+      skills: ["Git","GitHub", "Docker"],
     },
     {
      icon: "🛠️",

@@ -15,11 +15,10 @@ function About() {
         <div className="absolute bottom-[-4px] left-0 w-[68%] h-[3px] bg-gradient-to-r from-blue-500 to-blue-300 rounded-full" />
       </div>
       <p className="text-gray-400 mb-4 animate-fade-up" style={{ animationDelay: "0.2s" }}>
-        Hi there! 👋 I am results-driven IT professional specializing in cloud technologies and software development. Successfully architected
-and deployed multiple cloud-based solutions using AWS and Azure, demonstrating proficiency in serverless
-computing, data engineering, and automated systems. Strong foundation in Java programming, database
-management, and security best practices. Eager to contribute technical expertise and innovative problem-solving
-skills to drive digital transformation initiatives
+        Recent B.E. graduate in IT with hands-on experience in AWS and Azure. Built cloud-native projects using
+Lambda, SES, EventBridge, and Azure Data Factory. Skilled in Java, Bash, SQL, Git, and Docker. Certified in
+Azure Fundamentals (AZ-900), passionate about cloud infrastructure and automation. Seeking entry-level roles in
+Cloud or DevOps engineering
       </p>
       <div className="space-y-2">
         {details.map((item, index) => (
